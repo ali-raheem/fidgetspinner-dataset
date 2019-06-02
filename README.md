@@ -15,7 +15,9 @@ This spinner is weighed down with 3 green bearings in each arm of it's triarm de
 
 #### Black spinner (b)
 
-Image of black spinner coming soon! This black plastic spinner has 3 metal weights to add momentum. One in each arm of it's triarm design.
+![The black test fidget spinner](images/blackspinner.jpg "The second test spinner")
+
+This black plastic spinner has 3 metal weights to add momentum. One in each arm of it's triarm design.
 
 ### Bearings
 
